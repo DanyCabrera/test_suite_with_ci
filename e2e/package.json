@@ -1,0 +1,11 @@
+{
+  "name": "barberia-e2e",
+  "private": true,
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^14.5.0"
+  }
+}
